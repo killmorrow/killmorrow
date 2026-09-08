@@ -23,7 +23,7 @@
     <p>
       javascript ⭑ css ⭑ html<br>
       docker ⭑ bash ⭑ git ⭑ linux<br>
-      c ⭑ c#
+      c ⭑ c# ⭑ .NET
     </p>
   </div>
 </div>
