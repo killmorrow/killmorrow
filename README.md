@@ -37,7 +37,7 @@
 <h2 align="center">📖 currently learning</h2>
 
 <p align="center">
-  typescript ⭑ node.js ⭑ postgresql<br>
+  dbt ⭑ databricks ⭑ snowflake<br>
 </p>
 
 <br>
