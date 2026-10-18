@@ -8,7 +8,7 @@
 <br><br>
 <img src="banner.jpg">
 
-<br><br><br>
+<br><br>
 
 </div>
 
@@ -27,7 +27,7 @@ occasional gamedev
 <h2>interests</h2>
 
 dorky stuff in general  
-computers · low-level programming  
+mid-level programming  
 retro web · open source
 
 </td>
@@ -45,15 +45,17 @@ retro web · open source
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=c4aedd" width="100%">
 
-<br><br><br>
-
-<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Java/Code_Geass_CC_How_To_Program_In_Java.png" width="75%" alt="C.C. from Code Geass holding a Java programming book">
-
 <br><br>
 
 ✦<br>
 <a href="https://github.com/killmorrow?tab=repositories">repositories</a>
 <br>✦
+
+<br>
+
+<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Java/Code_Geass_CC_How_To_Program_In_Java.png" width="75%" alt="C.C. from Code Geass holding a Java programming book">
+
+<br><br>
 
 <br><br>
 
